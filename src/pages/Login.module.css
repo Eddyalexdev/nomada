@@ -1,0 +1,35 @@
+.login {
+  width: 100vw;
+  height: 88.7vh;
+  background: url("https://i.knowledge-tips.com/images/720065/image.jpg") no-repeat center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.login__title {
+  background-color: #FFFFFF;
+  padding: 0px 80px;
+  border-bottom: 1px solid #333333;
+}
+
+.login__form {
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+
+.login__box {
+  margin-bottom: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.login__text {
+  font-size: 18px;
+  display: inline-block;
+}
