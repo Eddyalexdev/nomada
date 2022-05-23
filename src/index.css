@@ -1,3 +1,9 @@
+:root {
+ --color-grey: #F0F5FF;
+ --color-black: #323232;
+ --color-white: #FFFFFF;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -21,4 +27,9 @@ a {
 a:hover {
   color: #323232;
   text-decoration: none;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
 }
